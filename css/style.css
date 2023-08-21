@@ -7,7 +7,6 @@ body {
     background-size: cover;
     color: white;
     padding-top: 15%
-
 }
 
 .title {
@@ -17,19 +16,19 @@ body {
 .navbar {
     background-color: rgb(3, 59, 3);
     color: white;
-    
+
 }
 
 .navbar a {
     color: white;
 }
 
-.active  {
+.active {
     color: white !important;
     text-decoration: underline !important;
 }
 
-.navbar a:hover  {
+.navbar a:hover {
     color: white !important;
     text-decoration: underline !important;
 }
